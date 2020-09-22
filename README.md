@@ -10,5 +10,4 @@ Its a very simple command by using node:
 node nightportfer.js
 
 # Note
-1.If you don't have git download it here https://git-scm.com/
-2.If the NightPortfer doesn't work, make sure your NodeJS is version 12 or above!
+If you don't have git download it here https://git-scm.com/ and If the NightPortfer doesn't work, make sure your NodeJS is version 12 or above!
