@@ -11,4 +11,4 @@ node nightportfer.js
 
 # Note
 1.If you don't have git download it here https://git-scm.com/<br />
-2.If the NightPortfer doesn't work, make sure your NodeJS is version 12 or above!
+2.If NightPortfer doesn't work, make sure your NodeJS is version 12 or above!
